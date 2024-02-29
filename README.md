@@ -17,3 +17,5 @@ cd functions; npm install
 ## iterating
 ### start all emulators and load from a local cache (local-emulator-data)
 npm run dev 
+
+firebase deploy
